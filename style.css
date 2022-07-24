@@ -1,0 +1,93 @@
+body {
+    font-family: "PT Sans", "Arial", sans-serif;
+    background-color: white;
+    color: black;
+
+}
+
+li {
+    font-size: 20px;
+}
+
+dt {
+    padding: 10px;
+    font-weight: 700;
+
+}
+
+header {
+    font-size: 30px;
+}
+
+/*header {
+    text-align: left;
+    padding: 25%;
+    padding-left: 10px;
+    margin: 0;
+    background-image: url("ssha.jpg");
+    width: 100%;
+    height: auto;
+    font-size: 50px;
+}*/
+
+
+.zh {
+    font-weight: 700;
+}
+
+.verh {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+
+.text-pic {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    vertical-align: middle;
+    margin-bottom: 20%;
+    padding: 30px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: rgb(255, 255, 255, 0.8);
+    border-radius: 15px;
+    /*background-image: url("fon-text3.jpg");*/
+    width: 30%;
+}
+
+.verh dl {
+    margin: 5%;
+    padding: 5px;
+    text-align: left;
+    vertical-align: top;
+    font-size: 20px;
+    
+}
+
+.text-pic dt {
+    width: 70%;
+}
+
+dt {
+    font-size: 30px;
+}
+
+dd {
+    margin-bottom: 30px;
+}
+
+
+
+/*
+.verh {
+    background-image: url("serj.jpg");
+    padding: 25%;
+    padding-left: 50px;
+    padding-right: 0;
+    margin: 0;
+    color: white;
+
+}
+*/
